@@ -15,7 +15,7 @@
 
 = Problem and Solution
 
-== Bad Posture when Coding
+== Bad Posture when Programming
 
 #align(center)[
   #figure(
