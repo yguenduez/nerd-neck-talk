@@ -35,7 +35,7 @@ open slides/assets/solution.mp4
 #align(center)[
   #figure(
     image("assets/wiring.png", width: 80%),
-    caption: "Solution"
+    caption: "Wiring"
   )
 ]
 
