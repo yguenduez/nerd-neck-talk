@@ -108,3 +108,5 @@ cargo run --release
 == Useful ressources
 
 #link("https://rust-basel.ch/embedded-workshop-4/sources.html")[Useful ressources]
+
+#link("https://github.com/yguenduez/nerd-neck-talk")[https://github.com/yguenduez/nerd-neck-talk]
